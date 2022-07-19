@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm a Software Engineer with a background in Biomedical Engineering and Medical Physics. Looking to bring my skills into workings on projects that impacts people's lives! When I am not coding, you can find me solving nonograms, learning new languages, or hiking in the hope of beautiful views!
+I'm a Software Engineer with a background in Biomedical Engineering and Medical Physics. Looking to bring my skills into workings on projects that impact people's lives! When I am not coding, you can find me solving nonograms, learning new languages, or hiking in the hope of finding beautiful views!
 
 
 ## 🌐 Socials:
